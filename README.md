@@ -2,8 +2,7 @@
 
 A real-time environmental monitoring station built on a Raspberry Pi, combining 6 sensor types (19 logged signals) with a Flask web dashboard, short-term temperature forecasting, storm detection, and pollution-hotspot tracking. Final-year engineering project (4-member team).
 
-🎥 **[Demo video](#)** · 🛠 **[Setup walkthrough video](#)**
-*(links to be added)*
+🎥 **[Demo video](https://youtu.be/jNZNY5t66iQ)** · 🛠 **[Setup initialization video](https://youtu.be/er7UxLrJC-c)**
 
 ---
 

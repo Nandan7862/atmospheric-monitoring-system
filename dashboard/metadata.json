@@ -1,0 +1,5 @@
+{
+  "name": "Atmospheric Monitoring Dashboard",
+  "description": "A web-based dashboard for visualizing real-time atmospheric and environmental data collected from IoT sensors, based on the Integrated Atmospheric Monitoring and Forecasting System architecture.",
+  "requestFramePermissions": []
+}

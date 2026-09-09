@@ -1,0 +1,4 @@
+minimalmodbus>=2.1.1
+pyserial>=3.5
+smbus2>=0.4.3
+RPi.bme280>=0.2.4
